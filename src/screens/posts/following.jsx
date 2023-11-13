@@ -2,7 +2,7 @@ import React from "react";
 import { useState, useEffect } from "react";
 import axios from "axios";
 import { useParams } from "react-router-dom";
-import NavBar from "../components/navbar";
+import NavBar from "../components/Navbar";
 import Footer from "../components/footer";
 import { useInView } from "react-intersection-observer";
 import baseUrl from "../../api/serverAPI";
