@@ -87,7 +87,7 @@ const Explore = () => {
     try {
       let tag = "Gardening";
       const res = await axios.post(
-        `${baseUrl}getTrendingTagPosts/${tag}`
+        `${baseUrl}/getTrendingTagPosts/${tag}`
       );
       setGardeningPosts(res.data.posts);
       //console.log("gardening posts", res.data.posts);
