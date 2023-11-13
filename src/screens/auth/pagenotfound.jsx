@@ -1,6 +1,6 @@
 import React from 'react';
 import pagenotfound from '../../assets/images/pagenotfound.jpg';
-import NavBar from '../components/navbar';
+import NavBar from '../components/Navbar';
 import Footer from '../components/footer';
 
 const PageNotFound = () => {
