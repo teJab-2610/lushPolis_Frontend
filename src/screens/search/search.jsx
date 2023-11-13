@@ -4,7 +4,7 @@ import { useSelector } from 'react-redux';
 import axios from 'axios';
 import { Link } from 'react-router-dom';
 import Smallnavsearch from "./navbarsearch.jsx";
-import Navbar from '../components/navbar';
+import Navbar from '../components/Navbar';
 import  {useParams} from 'react-router-dom';
 import BlogCard from './blogdisplay';
 import UserList from './userlist.jsx';
