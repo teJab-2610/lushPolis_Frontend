@@ -1,5 +1,5 @@
 import React from 'react';
-import NavBar from '../components/NavBar';
+import NavBar from '../components/Navbar';
 import Footer from '../components/footer';
 import ZapierEmbed from './embed';
 import Loading from './loading'; 
