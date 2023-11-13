@@ -1,7 +1,7 @@
 import "./shop.scss";
 import { useState, useEffect } from "react";
-import { ShopOptions } from "./ShopOptions";
-import { ShopProducts } from "./ShopProducts";
+import { ShopOptions } from "./shopOptions";
+import { ShopProducts } from "./shopProducts";
 import axios from "axios";
 import Navbar from "../components/Navbar";
 import MiddleHeader from "./MiddleHeader";
