@@ -11,7 +11,7 @@ import './profilepage.css';
 import labe from '../../assets/images/label.png';
 import conicon from '../../assets/images/gui_content_icon_158492.svg';
 import Navbar from "../components/Navbar.jsx";
-import Footer from "../components/Footer.jsx";
+import Footer from "../components/footer.jsx";
 import { useLocation } from 'react-router-dom';
 import baseUrl from '../../api/serverAPI';
 
