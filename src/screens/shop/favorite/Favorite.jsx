@@ -2,8 +2,8 @@
 import "./favorite.scss";
 import axios from "axios";
 import { useEffect, useState } from "react";
-import NavBar from "../../components/NavBar";
-import Footer from "../../components/Footer";
+import NavBar from "../../components/Navbar";
+import Footer from "../../components/footer";
 import MiddleHeader from "../MiddleHeader";
 import baseUrl from "../../../api/serverAPI";
 
