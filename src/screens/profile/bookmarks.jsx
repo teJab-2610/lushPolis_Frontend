@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import axios from 'axios';
 import { useParams } from 'react-router-dom';
 import Userdetailscard from './userdetailscard';
-import NavBar from '../components/navbar';
+import NavBar from '../components/Navbar';
 import Footer from '../components/footer';
 import baseUrl from '../../api/serverAPI';
 const BlogCard = ({ post, key }) => {
