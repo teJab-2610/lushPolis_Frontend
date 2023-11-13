@@ -6,7 +6,7 @@ import Navbar from "../components/Navbar";
 import axios from "axios";
 import { toast } from "react-toastify";
 import dp from "../../assets/images/dp.jpg";
-import Footer from "../components/Footer";
+import Footer from "../components/footer";
 import baseUrl from "../../api/serverAPI";
 
 const SinglePost = () => {
