@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import Navbar from "../components/Navbar";
 import axios from "axios";
 import { toast } from "react-toastify";
-import Footer from "../components/Footer";
+import Footer from "../components/footer";
 import "./singleProduct/single-product.scss";
 import { useNavigate } from "react-router-dom";
 import ReactImageMagnify from "react-image-magnify";
