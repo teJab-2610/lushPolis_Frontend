@@ -6,7 +6,7 @@ import axios from "axios";
 import Navbar from "../components/Navbar";
 import MiddleHeader from "./MiddleHeader";
 import { Spinner } from "../components/spinner/Spinner";
-import Footer from "../components/Footer";
+import Footer from "../components/footer";
 import ecompic from "../../assets/images/ecommerceinto.jpg";
 import '../auth/intropage.css';
 import baseUrl from "../../api/serverAPI";
