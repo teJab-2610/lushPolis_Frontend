@@ -7,7 +7,7 @@ import {useNavigate} from 'react-router-dom';
 import '../posts/quillpost.css';
 import './profilepage.css';
 import Navbar from "../components/Navbar.jsx";
-import Footer from "../components/Footer.jsx";
+import Footer from "../components/footer.jsx";
 import { useLocation, useParams } from 'react-router-dom';
 import baseUrl from '../../api/serverAPI';
 
