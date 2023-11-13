@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./explore.css";
 import Navbar from "../components/Navbar.jsx";
-import Footer from "../components/Footer.jsx";
+import Footer from "../components/footer.jsx";
 import sampledp from "../../assets/images/dp.jpg";
 import TopBlogs from "./top5blogs.jsx";
 import axios from "axios";
