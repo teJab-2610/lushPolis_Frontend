@@ -8,7 +8,7 @@ import Navbar from '../components/Navbar';
 import  {useParams} from 'react-router-dom';
 import BlogCard from './blogdisplay';
 import UserList from './userlist.jsx';
-import Footer from '../components/Footer.jsx';
+import Footer from '../components/footer.jsx';
 import baseUrl from '../../api/serverAPI';
 const Search = () => {
     const {query} = useParams();
