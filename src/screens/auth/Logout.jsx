@@ -4,7 +4,7 @@ import ecommerce_circle from "../../assets/images/ecommerce_circle.svg";
 import styles from "./syles.module.css";
 import { logout } from "../../auth/auth";
 import Navbar from "../components/Navbar.jsx";
-import Footer from "../components/Footer.jsx";
+import Footer from "../components/footer.jsx";
 import "./logout.css";
 import intropic from "../../assets/images/intropic.svg";
 import watering from "../../assets/images/watering.gif";
