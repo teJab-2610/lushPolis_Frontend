@@ -4,8 +4,8 @@ import { useDispatch, useSelector } from "react-redux";
 import { useEffect } from "react";
 import axios from "axios";
 import { useState } from "react";
-import NavBar from "../../components/NavBar";
-import Footer from "../../components/Footer";
+import NavBar from "../../components/Navbar";
+import Footer from "../../components/footer";
 import MiddleHeader from "../MiddleHeader";
 import baseUrl from "../../../api/serverAPI";
 
